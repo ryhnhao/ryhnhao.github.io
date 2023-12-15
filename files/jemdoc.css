@@ -54,6 +54,13 @@
 	z-index: 1;
 }
 
+.copyright {
+	/* margin-top: 40px; */
+	font-size: 16px;
+	text-align: center;
+	color: #666;
+}
+
 a.anchor {
 	display: block; 
 	position: relative; 
