@@ -451,6 +451,13 @@ img.proj_thumb {
 	padding: 1px;
 }
 
+img.proj_thumb2 {
+	width: 90px;
+	border: 1px solid;
+	border-color: #e0e0e0;
+	padding: 45px;
+}
+
 table {
 	border: 2px solid black;
 	border-collapse: collapse;
