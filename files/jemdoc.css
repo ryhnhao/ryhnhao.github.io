@@ -203,7 +203,8 @@ strong {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
 	/* color: #527bbd; */
 	color: #711d8f;
 	margin-top: 0.7em;
@@ -229,7 +230,10 @@ h2+h3 {
 
 h3 {
 	font-size: 110%;
-	border-bottom: none;
+}
+
+h4 {
+	font-size: 100%;
 }
 
 p {
