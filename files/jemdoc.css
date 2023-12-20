@@ -467,10 +467,6 @@ td {
 	border: 1px solid gray;
 }
 
-colgroup {
-	display: table-column-group;
-}
-
 table+table {
 	margin-top: 1em;
 }
@@ -487,6 +483,7 @@ img {
 table.imgtable,
 table.imgtable td {
 	border: none;
+	text-align: left;
 }
 
 
