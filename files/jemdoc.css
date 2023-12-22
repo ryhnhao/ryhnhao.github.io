@@ -301,7 +301,7 @@ p+ol {
 }
 
 li {
-	margin: 0.3em
+	margin: 0.5em
 }
 
 ol {
@@ -311,7 +311,7 @@ ol {
 
 li p,
 dd p {
-	margin-bottom: 0.3em;
+	margin-bottom: 0.5em;
 }
 
 
