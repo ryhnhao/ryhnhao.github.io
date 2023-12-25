@@ -27,22 +27,22 @@
 
 .icon-orcid:before {
   content: "\e903";
-  color: #a6ce39;
+  /* color: #a6ce39; */
 }
 
 .icon-dblp:before {
   content: "\e900";
-  color: #004f9f;
+  /* color: #004f9f; */
 }
 
 .icon-googlescholar:before {
   content: "\e901";
-  color: #4885ed;
+  /* color: #4885ed; */
 }
 
 .icon-researchgate:before {
   content: "\e902";
-  color: #0cb;
+  /* color: #0cb; */
 }
 
 .icon-facebook:before {
