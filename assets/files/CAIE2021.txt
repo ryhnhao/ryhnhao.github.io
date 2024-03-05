@@ -1,0 +1,9 @@
+@article{hao2021manufacturing,
+  title={Manufacturing service supply-demand optimization with dual diversities for industrial internet platforms},
+  author={Hao, Ruiyang and Cheng, Ying and Zhang, Yongping and Tao, Fei},
+  journal={Computers \& Industrial Engineering},
+  volume={156},
+  pages={107237},
+  year={2021},
+  publisher={Elsevier}
+}
