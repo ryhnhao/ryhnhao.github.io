@@ -1,0 +1,9 @@
+@article{wang2024incremental,
+  title={Incremental Template Neighborhood Matching for 3D Anomaly Detection},
+  author={Wang, Jiaxun and Wang, Xiang and Hao, Ruiyang and Yin, Haonan and Huang, Biqing and Xu, Xiao and Liu, Jingxian},
+  journal={Neurocomputing},
+  volume={580},
+  pages={127483},
+  year={2024},
+  publisher={Elsevier}
+}
