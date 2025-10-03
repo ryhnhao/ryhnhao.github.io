@@ -1,0 +1,6 @@
+@article{yu2025drivee2e,
+  title={DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving through Real-to-Simulation},
+  author={Yu, Haibao and Yang, Wenxian and Hao, Ruiyang and Wang, Chuanye and Zhong, Jiaru and Luo, Ping and Nie, Zaiqing},
+  journal={arXiv preprint arXiv:2509.23922},
+  year={2025}
+}

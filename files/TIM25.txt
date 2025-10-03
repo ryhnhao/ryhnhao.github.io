@@ -1,0 +1,7 @@
+@article{yan2025domain,
+  title={A Domain Incremental Learning Framework for PCB Continuous Defect Detection},
+  author={Yan, Ze and Hao, Ruiyang and Huang, Biqing and Zhu, Lin and Pan, Hui},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2025},
+  publisher={IEEE}
+}

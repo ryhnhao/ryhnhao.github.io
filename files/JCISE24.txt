@@ -1,0 +1,10 @@
+@article{wang2024metal,
+  title={Metal surface defect detection method based on improved cascade r-cnn},
+  author={Wang, Yani and Wang, Xiang and Hao, Ruiyang and Lu, Bingyu and Huang, Biqing},
+  journal={Journal of Computing and Information Science in Engineering},
+  volume={24},
+  number={4},
+  pages={041002},
+  year={2024},
+  publisher={American Society of Mechanical Engineers}
+}

@@ -1,0 +1,6 @@
+@article{hao2025styledrive,
+  title={StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving},
+  author={Hao, Ruiyang and Jing, Bowen and Yu, Haibao and Nie, Zaiqing},
+  journal={arXiv preprint arXiv:2506.23982},
+  year={2025}
+}

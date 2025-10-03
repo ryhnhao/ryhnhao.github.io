@@ -1,0 +1,6 @@
+@article{hao2025research,
+  title={Research challenges and progress in the end-to-end V2X cooperative autonomous driving competition},
+  author={Hao, Ruiyang and Yu, Haibao and Zhong, Jiaru and Wang, Chuanye and Wang, Jiahao and Kan, Yiming and Yang, Wenxian and Fan, Siqi and Yin, Huilin and Qiu, Jianing and others},
+  journal={arXiv preprint arXiv:2507.21610},
+  year={2025}
+}

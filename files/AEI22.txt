@@ -1,0 +1,9 @@
+@article{xu2022efficient,
+  title={Efficient surface defect detection using self-supervised learning strategy and segmentation network},
+  author={Xu, Rongge and Hao, Ruiyang and Huang, Biqing},
+  journal={Advanced Engineering Informatics},
+  volume={52},
+  pages={101566},
+  year={2022},
+  publisher={Elsevier}
+}

@@ -39,7 +39,7 @@ My current research interests lie in multimodal learning, computer vision, and m
 
 <b>Ruiyang Hao</b>, Bowen Jing, Haibao Yu, Zaiqing Nie
 
-arXiv: 2506.23982, <i>Under Review</i>.
+arXiv: 2506.23982, <i>Under Review</i>. [**_Project_**](https://styledrive.github.io/), [**_Ref_**](https://ry-hao.top/files/styledrive.txt)
 
 - Novel large-scale real-world personalized driving dataset
 - High-quality multi-stage annotation pipeline
@@ -55,7 +55,7 @@ arXiv: 2506.23982, <i>Under Review</i>.
 
 Haibao Yu<sup>\*</sup>, Wenxian Yang<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Chuanye Wang<sup>\*</sup>, Jiaru Zhong<sup>\*</sup>, Ping Luo, Zaiqing Nie (\* means equal contributions)
 
-arXiv: 2509.23922, <i>Under Review</i>.
+arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-THU/DriveE2E), [**_Ref_**](https://ry-hao.top/files/drivee2e.txt)
 
 - Infra-view-enhanced real2sim framework for realistic closed-loop evaluation.
 - 15 high-fidelity digital twins & 800 infra-sensor diverse scenarios.
@@ -70,7 +70,7 @@ arXiv: 2509.23922, <i>Under Review</i>.
 
 <b>Ruiyang Hao</b>, Siqi Fan, Yingru Dai, Zhenlin Zhang, Chenxi Li, Yuntian Wang, Haibao Yu, Wenxian Yang, Jirui Yuan, Zaiqing Nie
 
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>, 22347-22357.
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>, 22347-22357. [**_Project_**](https://github.com/AIR-THU/DAIR-RCooper), [**_Ref_**](https://ry-hao.top/files/CVPR24.txt)
 
 - 1st real-world large-scale dataset for roadside cooperative perception.
 - 50k images & 30k point clouds with 3D annotations across 10 semantic classes.
@@ -83,9 +83,9 @@ arXiv: 2509.23922, <i>Under Review</i>.
 <div class='paper-box-text' markdown="1">
 [Efficient surface defect detection using self-supervised learning strategy and segmentation network](https://www.sciencedirect.com/science/article/pii/S1474034622000386)
 
-Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang
+Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means equal contributions)
 
-<i>Advanced Engineering Informatics</i>, 2022, 52: 101566.
+<i>Advanced Engineering Informatics</i>, 2022, 52: 101566. [**_Ref_**](https://ry-hao.top/files/AEI22.txt)
 
 - Lightweight defect detection for efficient and accurate industrial inspection.
 - Attention & multi-task strategy to enhance defect focus and edge segmentation.
@@ -100,7 +100,7 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang
 
 <b>Ruiyang Hao</b>, Bingyu Lu, Ying Cheng, Xiu Li, Biqing Huang
 
-<i>Journal of Intelligent Manufacturing</i>, 2021, 32(7): 1833-1843.
+<i>Journal of Intelligent Manufacturing</i>, 2021, 32(7): 1833-1843. [**_Ref_**](https://ry-hao.top/files/JIM21.txt)
 
 - DIN: steel defect inspection network balancing efficiency and performance.
 - Deformable convolution backbone for adaptive feature extraction on diverse defect shapes.
@@ -115,7 +115,7 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang
 
 <b>Ruiyang Hao</b>, Ying Cheng, Yongping Zhang, Fei Tao
 
-<i>Computers & Industrial Engineering</i>, 2021, 156: 107237.
+<i>Computers & Industrial Engineering</i>, 2021, 156: 107237. [**_Ref_**](https://ry-hao.top/files/CAIE21.txt)
 
 - Classified hypernetwork & MS-SDR for modeling dual diversities in supply-demand.
 - MS-SDO model with stakeholder analysis to enhance platform stability and utility.
@@ -123,13 +123,13 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang
 </div>
 </div>
 
-- [Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition](https://arxiv.org/pdf/2507.21610), <b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, et al. <i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025.
+- [Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition](https://arxiv.org/pdf/2507.21610), <b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, et al. <i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025. [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt)
 
-- [A Domain Incremental Learning Framework for PCB Continuous Defect Detection](https://ieeexplore.ieee.org/abstract/document/10922142), Ze Yan, <b>Ruiyang Hao</b>, Biqing Huang, Lin Zhu, Hui Pan. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2025, 74: 5016613.
+- [A Domain Incremental Learning Framework for PCB Continuous Defect Detection](https://ieeexplore.ieee.org/abstract/document/10922142), Ze Yan, <b>Ruiyang Hao</b>, Biqing Huang, Lin Zhu, Hui Pan. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2025, 74: 5016613. [**_Ref_**](https://ry-hao.top/files/TIM25.txt)
 
-- [Incremental Template Neighborhood Matching for 3D anomaly detection](https://www.sciencedirect.com/science/article/pii/S0925231224002546), Jiaxun Wang, Xiang Wang, <b>Ruiyang Hao</b>, Haonan Yin, Biqing Huang, Xiao Xu, Jingxian Liu. <i>Neurocomputing</i>, 2024, 74: 5016613.
+- [Incremental Template Neighborhood Matching for 3D anomaly detection](https://www.sciencedirect.com/science/article/pii/S0925231224002546), Jiaxun Wang, Xiang Wang, <b>Ruiyang Hao</b>, Haonan Yin, Biqing Huang, Xiao Xu, Jingxian Liu. <i>Neurocomputing</i>, 2024, 74: 5016613. [**_Ref_**](https://ry-hao.top/files/NEURC24.txt)
 
-- [Metal surface defect detection method based on improved cascade r-cnn](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/24/4/041002/1169612/Metal-Surface-Defect-Detection-Method-Based-on), Yani Wang, Xiang Wang, <b>Ruiyang Hao</b>, Bingyu Lu, Biqing Huang. <i>Journal of Computing and Information Science in Engineering</i>, 2024, 24(4): 041002.
+- [Metal surface defect detection method based on improved cascade r-cnn](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/24/4/041002/1169612/Metal-Surface-Defect-Detection-Method-Based-on), Yani Wang, Xiang Wang, <b>Ruiyang Hao</b>, Bingyu Lu, Biqing Huang. <i>Journal of Computing and Information Science in Engineering</i>, 2024, 24(4): 041002. [**_Ref_**](https://ry-hao.top/files/JCISE24.txt)
 
 # 🎖 Honors and Awards
 
@@ -149,9 +149,9 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang
 
 # 💻 Internships and RAs
 
-- _2025.07 - 2025.10_, Tuojing Intelligence, Internship, Beijing, China.
-- _2023.07 - 2025.07_, Tsinghua University, Research Assistant, Beijing, China.
-- _2022.06 - 2022.10_, SenseTime Research, Internship, Beijing, China.
+- _2025.07 - 2025.10_, Tuojing Intelligence, Internship: _Simulation and Generation in Autonomous Driving_.
+- _2023.07 - 2025.07_, Tsinghua University, Research Assistant: _Perception, Planning and Simulation in Autonomous Driving_.
+- _2022.06 - 2022.10_, SenseTime Research, Internship: _Perception in Unmanned Aerial Vehicle_.
 
 # 💬 Services
 

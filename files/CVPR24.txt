@@ -1,0 +1,7 @@
+@inproceedings{hao2024rcooper,
+  title={Rcooper: A real-world large-scale dataset for roadside cooperative perception},
+  author={Hao, Ruiyang and Fan, Siqi and Dai, Yingru and Zhang, Zhenlin and Li, Chenxi and Wang, Yuntian and Yu, Haibao and Yang, Wenxian and Yuan, Jirui and Nie, Zaiqing},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={22347--22357},
+  year={2024}
+}

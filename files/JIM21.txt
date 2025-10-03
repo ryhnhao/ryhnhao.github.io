@@ -1,0 +1,10 @@
+@article{hao2021steel,
+  title={A steel surface defect inspection approach towards smart industrial monitoring},
+  author={Hao, Ruiyang and Lu, Bingyu and Cheng, Ying and Li, Xiu and Huang, Biqing},
+  journal={Journal of Intelligent Manufacturing},
+  volume={32},
+  number={7},
+  pages={1833--1843},
+  year={2021},
+  publisher={Springer}
+}
