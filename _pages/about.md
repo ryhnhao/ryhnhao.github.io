@@ -70,7 +70,7 @@ arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-T
 
 <b>Ruiyang Hao</b>, Siqi Fan, Yingru Dai, Zhenlin Zhang, Chenxi Li, Yuntian Wang, Haibao Yu, Wenxian Yang, Jirui Yuan, Zaiqing Nie
 
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>, 22347-22357. [**_Project_**](https://github.com/AIR-THU/DAIR-RCooper), [**_Ref_**](https://ry-hao.top/files/CVPR24.txt)
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>, 22347-22357. [**_Project_**](https://github.com/AIR-THU/DAIR-RCooper), [**_Video_**](https://www.youtube.com/watch?v=6CFi9Bz4wg4&t=39s&pp=0gcJCfwJAYcqIYzv), [**_Ref_**](https://ry-hao.top/files/CVPR24.txt)
 
 - 1st real-world large-scale dataset for roadside cooperative perception.
 - 50k images & 30k point clouds with 3D annotations across 10 semantic classes.
@@ -123,7 +123,7 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 </div>
 </div>
 
-- [Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition](https://arxiv.org/pdf/2507.21610), <b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, et al. <i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025. [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt)
+- [Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition](https://arxiv.org/pdf/2507.21610), <b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, et al. <i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025. [**_Project_**](https://github.com/AIR-THU/UniV2X), [**_Video_**](https://www.youtube.com/watch?v=LS0CrJ9jfEs&pp=0gcJCfwJAYcqIYzv), [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt)
 
 - [A Domain Incremental Learning Framework for PCB Continuous Defect Detection](https://ieeexplore.ieee.org/abstract/document/10922142), Ze Yan, <b>Ruiyang Hao</b>, Biqing Huang, Lin Zhu, Hui Pan. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2025, 74: 5016613. [**_Ref_**](https://ry-hao.top/files/TIM25.txt)
 
