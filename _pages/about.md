@@ -134,7 +134,7 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 # 🎖 Honors and Awards
 
 - _2025.10-2028.09_ <b>Newland Pedley Studentship</b>, awarded by King's College London.
-- _2025.10_ <b>Research Excellence Scholarship</b>, awarded by University College London (not commenced due to enrolment), <b>one of 40 global awards</b>.
+- _2025.10_ <b>Research Excellence Scholarship</b>, awarded by University College London (not commenced due to enrolment), <b>top 40 worldwide</b>.
 - _2018.12_ <b>National Scholarship</b>, the Top Scholarship in China, <b>top 1%</b>.
 - _2022.10_ First-class Excellence Scholarship, awarded by Tsinghua University, <b>top 2.5%</b>.
 - _2021.10_ First-class Excellence Scholarship, awarded by Tsinghua University, <b>top 2.5%</b>.
