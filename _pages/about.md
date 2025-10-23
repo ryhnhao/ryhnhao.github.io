@@ -123,7 +123,7 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 </div>
 </div>
 
-- [Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition](https://arxiv.org/pdf/2507.21610), <b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, et al. <i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025. [**_Project_**](https://github.com/AIR-THU/UniV2X), [**_Video_**](https://www.youtube.com/watch?v=LS0CrJ9jfEs&pp=0gcJCfwJAYcqIYzv), [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt)
+- [Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition](https://openaccess.thecvf.com/content/ICCV2025W/DriveX/papers/Hao_Research_Challenges_and_Progress_in_the_End-to-End_V2X_Cooperative_Autonomous_ICCVW_2025_paper.pdf), <b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, et al. <i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025. [**_Project_**](https://github.com/AIR-THU/UniV2X), [**_Video_**](https://www.youtube.com/watch?v=LS0CrJ9jfEs&pp=0gcJCfwJAYcqIYzv), [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt)
 
 - [A Domain Incremental Learning Framework for PCB Continuous Defect Detection](https://ieeexplore.ieee.org/abstract/document/10922142), Ze Yan, <b>Ruiyang Hao</b>, Biqing Huang, Lin Zhu, Hui Pan. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2025, 74: 5016613. [**_Ref_**](https://ry-hao.top/files/TIM25.txt)
 
@@ -133,7 +133,8 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 
 # 🎖 Honors and Awards
 
-- _2025.10_ <b>Newland Pedley Studentship</b>, awarded by King's College London.
+- _2025.10-2028.09_ <b>Newland Pedley Studentship</b>, awarded by King's College London.
+- _2025.10_ <b>Research Excellence Scholarship</b>, awarded by University College London (not commenced due to enrolment), <b>one of 40 global awards</b>.
 - _2018.12_ <b>National Scholarship</b>, the Top Scholarship in China, <b>top 1%</b>.
 - _2022.10_ First-class Excellence Scholarship, awarded by Tsinghua University, <b>top 2.5%</b>.
 - _2021.10_ First-class Excellence Scholarship, awarded by Tsinghua University, <b>top 2.5%</b>.
