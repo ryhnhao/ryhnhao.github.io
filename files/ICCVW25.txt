@@ -1,6 +1,8 @@
-@article{hao2025research,
-  title={Research challenges and progress in the end-to-end V2X cooperative autonomous driving competition},
-  author={Hao, Ruiyang and Yu, Haibao and Zhong, Jiaru and Wang, Chuanye and Wang, Jiahao and Kan, Yiming and Yang, Wenxian and Fan, Siqi and Yin, Huilin and Qiu, Jianing and others},
-  journal={arXiv preprint arXiv:2507.21610},
-  year={2025}
+@InProceedings{Hao_2025_ICCV,
+    author    = {Hao, Ruiyang and Yu, Haibao and Zhong, Jiaru and Wang, Chuanye and Wang, Jiahao and Kan, Yiming and Yang, Wenxian and Fan, Siqi and Yin, Huilin and Qiu, Jianing and Mu, Yao and Sun, Jiankai and Chen, Li and Zimmer, Walter and Zhang, Dandan and Zhang, Shanghang and Schwager, Mac and Luo, Ping and Nie, Zaiqing},
+    title     = {Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2025},
+    pages     = {1828-1839}
 }
