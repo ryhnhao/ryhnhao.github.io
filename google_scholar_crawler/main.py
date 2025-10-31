@@ -23,7 +23,7 @@ OUT_BADGE = RESULTS_DIR / "gs_data_shieldsio.json"
 # ======================
 # scholarly 全局配置（更宽松）
 # ======================
-scholarly.set_timeout(30)   # 默认10，容易卡超时
+scholarly.set_timeout(60)   # 默认10，容易卡超时
 scholarly.set_retries(6)    # 默认2，偏低，容易触发 MaxTriesExceeded
 
 def sleep_backoff(attempt: int, base: int = 2, cap: int = 20):
@@ -165,7 +165,7 @@ def write_outputs(author: dict | None):
 
         if not OUT_BADGE.exists():
             OUT_BADGE.write_text(
-                json.dumps({"schemaVersion": 1, "label": "citations", "message": "0"}, ensure_ascii=False),
+                json.dumps({"schemaVersion": 1, "label": "citations", "message": "403"}, ensure_ascii=False),
                 encoding="utf-8"
             )
         print("⚠️ 抓取失败，已写入占位/或保留旧文件")
