@@ -33,13 +33,13 @@ My current research interests lie in multimodal learning, computer vision, and m
 # 📝 Publications
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">AAAI 2026</div> <img src='images/styledrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div> <img src='images/styledrive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving](https://arxiv.org/pdf/2506.23982)
 
 <b>Ruiyang Hao</b>, Bowen Jing, Haibao Yu, Zaiqing Nie
 
-<i>The 40th Annual AAAI Conference on Artificial Intelligence</i>. [**_Project_**](https://styledrive.github.io/), [**_Ref_**](https://ry-hao.top/files/styledrive.txt)
+<i>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>. [**_Project_**](https://styledrive.github.io/), [**_Ref_**](https://ry-hao.top/files/styledrive.txt)
 
 - Novel large-scale real-world personalized driving dataset
 - High-quality multi-stage annotation pipeline
