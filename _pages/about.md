@@ -39,7 +39,7 @@ My current research interests lie in multimodal learning, computer vision, and m
 
 <b>Ruiyang Hao</b>, Bowen Jing, Haibao Yu, Zaiqing Nie
 
-<i>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>. [**_Project_**](https://styledrive.github.io/), [**_Ref_**](https://ry-hao.top/files/styledrive.txt)
+<i>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>. [**_Project_**](https://styledrive.github.io/), [**_Video_**](https://youtu.be/M3_zA0CT-Zg), [**_Ref_**](https://ry-hao.top/files/styledrive.txt)
 
 - Novel large-scale real-world personalized driving dataset
 - High-quality multi-stage annotation pipeline
@@ -64,13 +64,28 @@ arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-T
 </div>
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ICCVW 2025</div> <img src='images/UniV2X_challenge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition](https://openaccess.thecvf.com/content/ICCV2025W/DriveX/papers/Hao_Research_Challenges_and_Progress_in_the_End-to-End_V2X_Cooperative_Autonomous_ICCVW_2025_paper.pdf)
+
+<b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, Wenxian Yang, Siqi Fan, Huilin Yin, Jianing Qiu, Yao Mu, Jiankai Sun, Li Chen, Walter Zimmer, Dandan Zhang, Shanghang Zhang, Mac Schwager, Ping Luo, Zaiqing Nie
+
+<i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025, 1828-1839. [**_Project_**](https://github.com/AIR-THU/UniV2X), [**_Video_**](https://youtu.be/LS0CrJ9jfEs), [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt)
+
+- First V2X challenge combining sequential perception & E2E planning.
+- Demonstrated SOTA advances in V2X cooperative perception & E2E planning.
+- Key insights on V2X fusion, robust planning, & future V2X system design.
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2024</div> <img src='images/RCooper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception](https://openaccess.thecvf.com/content/CVPR2024/papers/Hao_RCooper_A_Real-world_Large-scale_Dataset_for_Roadside_Cooperative_Perception_CVPR_2024_paper.pdf)
 
 <b>Ruiyang Hao</b>, Siqi Fan, Yingru Dai, Zhenlin Zhang, Chenxi Li, Yuntian Wang, Haibao Yu, Wenxian Yang, Jirui Yuan, Zaiqing Nie
 
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>, 22347-22357. [**_Project_**](https://github.com/AIR-THU/DAIR-RCooper), [**_Video_**](https://www.youtube.com/watch?v=6CFi9Bz4wg4&t=39s&pp=0gcJCfwJAYcqIYzv), [**_Ref_**](https://ry-hao.top/files/CVPR24.txt)
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>, 2024, 22347-22357. [**_Project_**](https://github.com/AIR-THU/DAIR-RCooper), [**_Video_**](https://youtu.be/6CFi9Bz4wg4), [**_Ref_**](https://ry-hao.top/files/CVPR24.txt)
 
 - 1st real-world large-scale dataset for roadside cooperative perception.
 - 50k images & 30k point clouds with 3D annotations across 10 semantic classes.
@@ -122,8 +137,6 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 - Knowledge-guided NSGAII + experiments for effective optimization and management insights.
 </div>
 </div>
-
-- [Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition](https://openaccess.thecvf.com/content/ICCV2025W/DriveX/papers/Hao_Research_Challenges_and_Progress_in_the_End-to-End_V2X_Cooperative_Autonomous_ICCVW_2025_paper.pdf), <b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, Wenxian Yang, Siqi Fan, Huilin Yin, Jianing Qiu, Yao Mu, Jiankai Sun, Li Chen, Walter Zimmer, Dandan Zhang, Shanghang Zhang, Mac Schwager, Ping Luo, Zaiqing Nie. <i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025, 1828-1839. [**_Project_**](https://github.com/AIR-THU/UniV2X), [**_Video_**](https://www.youtube.com/watch?v=LS0CrJ9jfEs&pp=0gcJCfwJAYcqIYzv), [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt)
 
 - [A Domain Incremental Learning Framework for PCB Continuous Defect Detection](https://ieeexplore.ieee.org/abstract/document/10922142), Ze Yan, <b>Ruiyang Hao</b>, Biqing Huang, Lin Zhu, Hui Pan. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2025, 74: 5016613. [**_Ref_**](https://ry-hao.top/files/TIM25.txt)
 

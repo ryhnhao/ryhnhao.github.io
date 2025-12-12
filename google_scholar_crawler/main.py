@@ -72,7 +72,7 @@ def configure_proxy(mode: str, http_p: str = None, https_p: str = None) -> bool:
 
 def robust_search_author(gs_id: str,
                          modes=("env", "free", "none"),
-                         max_attempts_per_mode: int = 3):
+                         max_attempts_per_mode: int = 10):
     """对 search_author_id 做分模式、多次重试 + 退避"""
     http_p = os.getenv("HTTP_PROXY") or os.getenv("http_proxy")
     https_p = os.getenv("HTTPS_PROXY") or os.getenv("https_proxy")
@@ -165,7 +165,7 @@ def write_outputs(author: dict | None):
 
         if not OUT_BADGE.exists():
             OUT_BADGE.write_text(
-                json.dumps({"schemaVersion": 1, "label": "citations", "message": "403"}, ensure_ascii=False),
+                json.dumps({"schemaVersion": 1, "label": "citations", "message": "432"}, ensure_ascii=False),
                 encoding="utf-8"
             )
         print("⚠️ 抓取失败，已写入占位/或保留旧文件")
