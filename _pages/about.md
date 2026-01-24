@@ -19,16 +19,20 @@ redirect_from:
 
 I am currently a Ph.D. student in the [Translational AI Research Lab](https://tair-lab.github.io/) at <b>King’s College London (KCL)</b>, advised by [Dr. Yunpeng Li](https://yunpengli.ac/) and [Prof. Yulan He](https://sites.google.com/view/yulanhe). My research focuses on multimodal artificial intelligence for dental diagnosis, with the goal of advancing healthcare applications through cutting-edge machine learning methods.
 
-Before joining KCL, I worked as a Research Assistant at the <b>Institute for AI Industry Research (AIR), Tsinghua University</b>, where I collaborated closely with [Prof. Zaiqing Nie](https://air.tsinghua.edu.cn/en/info/1046/1192.htm) and [Dr. Haibao Yu](https://scholar.google.com/citations?user=JW4F5HoAAAAJ) on research related to autonomous driving perception, planning and simulation. I obtained my Master’s degree from the <b>Department of Automation, Tsinghua University</b>, supervised by [Prof. Biqing Huang](https://www.au.tsinghua.edu.cn/en/info/1092/3354.htm). My master’s research primarily focused on computer vision for industrial defect inspection. I received my Bachelor degree (with Hons.) from <b>Shenyuan Honors College, Beihang University</b>.
+Before joining KCL, I was a Research Assistant at the <b>Institute for AI Industry Research (AIR), Tsinghua University</b>, where I worked with [Prof. Zaiqing Nie](https://air.tsinghua.edu.cn/en/info/1046/1192.htm) and [Dr. Haibao Yu](https://scholar.google.com/citations?user=JW4F5HoAAAAJ) on autonomous driving perception, planning, and simulation. I obtained my Master’s degree from the <b>Department of Automation, Tsinghua University</b> under the supervision of [Prof. Biqing Huang](https://www.au.tsinghua.edu.cn/en/info/1092/3354.htm), focusing on computer vision for industrial defect inspection. I received my Bachelor’s degree (with Honours) from <b>Shenyuan Honors College, Beihang University</b>. These experiences built a strong foundation in multimodal perception and machine learning systems, which now support my current research on medical AI for dental diagnosis.
 
-I have published several papers in high-level AI conferences and journals, with total <a href='https://scholar.google.com/citations?user=msJSbWYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/ryhnhao/ryhnhao.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on Google Scholar.
+I have published multiple papers in leading AI conferences and journals, with total <a href='https://scholar.google.com/citations?user=msJSbWYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/ryhnhao/ryhnhao.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on Google Scholar.
 
-<b>Research Focus</b>: My current research interests lie in multimodal learning, computer vision, and medical AI, with a special focus on their applications in dentistry and healthcare.
+<b>Research Focus</b>: Multimodal learning, computer vision, and medical AI, with a particular emphasis on dental imaging and healthcare applications.
 
-<div style="margin-top: 25px; margin-bottom: 10px; text-align: center;">
+<div style="margin-top: 25px; margin-bottom: 0; text-align: center;">
   <img src="https://ry-hao.top/images/images.png" 
        style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px;">
 </div>
+
+<p style="text-align: center; font-size: 14px; color: #444; margin-top: 4px; font-weight: 500;">
+  Advancing Dental Diagnosis through Multimodal AI!
+</p>
 
 <!-- # 🔥 News
 
@@ -40,7 +44,7 @@ I have published several papers in high-level AI conferences and journals, with 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div> <img src='images/styledrive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving](https://arxiv.org/pdf/2506.23982)
+[StyleDrive: Towards Driving-Style Aware Benchmarking of End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.23982)
 
 <b>Ruiyang Hao</b>, Bowen Jing, Haibao Yu, Zaiqing Nie
 
@@ -75,7 +79,7 @@ arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-T
 
 <b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, Wenxian Yang, Siqi Fan, Huilin Yin, Jianing Qiu, Yao Mu, Jiankai Sun, Li Chen, Walter Zimmer, Dandan Zhang, Shanghang Zhang, Mac Schwager, Ping Luo, Zaiqing Nie
 
-<i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025, 1828-1839. [**_Project_**](https://github.com/AIR-THU/UniV2X), [**_Video_**](https://youtu.be/LS0CrJ9jfEs), [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/UniV2X?style=flat&logo=github)](https://github.com/AIR-THU/UniV2X)
+<i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025, 1828–1839. [**_Project_**](https://github.com/AIR-THU/UniV2X), [**_Video_**](https://youtu.be/LS0CrJ9jfEs), [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/UniV2X?style=flat&logo=github)](https://github.com/AIR-THU/UniV2X)
 
 - First V2X challenge combining sequential perception & E2E planning.
 - Demonstrated SOTA advances in V2X cooperative perception & E2E planning.
@@ -145,43 +149,43 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 
 - [A Domain Incremental Learning Framework for PCB Continuous Defect Detection](https://ieeexplore.ieee.org/abstract/document/10922142), Ze Yan, <b>Ruiyang Hao</b>, Biqing Huang, Lin Zhu, Hui Pan. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2025, 74: 5016613. [**_Ref_**](https://ry-hao.top/files/TIM25.txt)
 
-- [Incremental Template Neighborhood Matching for 3D anomaly detection](https://www.sciencedirect.com/science/article/pii/S0925231224002546), Jiaxun Wang, Xiang Wang, <b>Ruiyang Hao</b>, Haonan Yin, Biqing Huang, Xiao Xu, Jingxian Liu. <i>Neurocomputing</i>, 2024, 74: 5016613. [**_Ref_**](https://ry-hao.top/files/NEURC24.txt)
+- [Incremental Template Neighborhood Matching for 3D anomaly detection](https://www.sciencedirect.com/science/article/pii/S0925231224002546), Jiaxun Wang, Xiang Wang, <b>Ruiyang Hao</b>, Haonan Yin, Biqing Huang, Xiao Xu, Jingxian Liu. <i>Neurocomputing</i>, 2024, 581: 127483. [**_Ref_**](https://ry-hao.top/files/NEURC24.txt)
 
 - [Metal surface defect detection method based on improved cascade r-cnn](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/24/4/041002/1169612/Metal-Surface-Defect-Detection-Method-Based-on), Yani Wang, Xiang Wang, <b>Ruiyang Hao</b>, Bingyu Lu, Biqing Huang. <i>Journal of Computing and Information Science in Engineering</i>, 2024, 24(4): 041002. [**_Ref_**](https://ry-hao.top/files/JCISE24.txt)
 
 # 🎖 Honors and Awards
 
-- _Oct 2025 - Sept 2028_, <b>Newland Pedley Studentship</b>, awarded by King's College London.
-- _Oct 2025_, <b>Research Excellence Scholarship</b>, awarded by University College London (declined due to enrollment constraints), <b>top 40 globally</b>.
+- _Oct 2025–Sep 2028_, <b>Newland Pedley Studentship</b>, King's College London.
+- _Oct 2025_, <b>Research Excellence Scholarship</b>, University College London (declined due to enrollment constraints), <b>top 40 Worldwide</b>.
 - _Dec 2018_, <b>National Scholarship</b>, the Top Scholarship in China, <b>top 1%</b>.
-- _Oct 2022_, First-class Excellence Scholarship, awarded by Tsinghua University, <b>top 2.5%</b>.
-- _Oct 2021_, First-class Excellence Scholarship, awarded by Tsinghua University, <b>top 2.5%</b>.
-- _Jun 2020_, Outstanding graduate & the honored degree, awarded by Beihang University, <b>top 5%</b>.
-- _Apr 2019_, Meritorious Prize of Interdisciplinary Contest in Modeling, awarded by COMAP, <b>top 8%</b>.
-- _Apr 2018_, Meritorious Prize of Interdisciplinary Contest in Modeling, awarded by COMAP, <b>top 8%</b>.
+- _Oct 2022_, First-class Excellence Scholarship, Tsinghua University, <b>top 2.5%</b>.
+- _Oct 2021_, First-class Excellence Scholarship, Tsinghua University, <b>top 2.5%</b>.
+- _Jun 2020_, Outstanding Graduate with Honours, Beihang University, <b>top 5%</b>.
+- _Apr 2019_, Meritorious Prize of Interdisciplinary Contest in Modeling, COMAP, <b>top 8%</b>.
+- _Apr 2018_, Meritorious Prize of Interdisciplinary Contest in Modeling, COMAP, <b>top 8%</b>.
 
-# 📖 Educations
+# 📖 Education
 
-- _Oct 2025 - now_, PhD, <b>King's College London</b>, London, UK.
-- _Sept 2020 - Jun 2023_, Master, with <b>4.00/4.00 GPA (ranking 1/155)</b>, <b>Tsinghua University</b>, Beijing, China.
-- _Sept 2016 - Jun 2020_, Bachelor (w. Honor), with <b>3.83/4.00 GPA (ranking 1/51)</b>, <b>Beihang University</b>, Beijing, China.
+- _Oct 2025–now_, PhD, <b>King's College London</b>, London, UK.
+- _Sep 2020–Jun 2023_, Master, with <b>4.00/4.00 GPA (Rank: 1/155)</b>, <b>Tsinghua University</b>, Beijing, China.
+- _Sep 2016–Jun 2020_, Bachelor (with Honours), with <b>3.83/4.00 GPA (Rank: 1/51)</b>, <b>Beihang University</b>, Beijing, China.
 
 # 💻 Internships and RAs
 
-- _Jul 2025 - Oct 2025_, Tuojing Intelligence, Internship: _Simulation and Generation in Autonomous Driving_.
-- _Jul 2023 - Jul 2025_, Tsinghua University, Research Assistant: _Perception, Planning and Simulation in Autonomous Driving_.
-- _Jun 2022 - Oct 2022_, SenseTime Research, Internship: _Perception in Unmanned Aerial Vehicle_.
+- _Jul 2025–Oct 2025_, Tuojing Intelligence, Internship: _Simulation and Generation in Autonomous Driving_.
+- _Jul 2023–Jul 2025_, Tsinghua University, Research Assistant: _Perception, Planning and Simulation in Autonomous Driving_.
+- _Jun 2022–Oct 2022_, SenseTime Research, Internship: _Perception in Unmanned Aerial Vehicle_.
 
 # 💼 Services
 
-- _Since 2024_, <b>Conference Reviewer</b> for _CVPR_, _NIPS_, _AAAI_, _ECCV_, _ICLR_, etc.
+- _Since 2024_, <b>Conference Reviewer</b> for _CVPR_, _NeurIPS_, _AAAI_, _ECCV_, _ICLR_, etc.
 - _Since 2023_, <b>Journal Reviewer</b> for _Advanced Engineering Informatics_, _Journal of Industrial Information Integration_, _Journal of Real-Time Image Processing_, _The Visual Computer_, _Signal, Image and Video Processing_, etc.
-- _Jun 2025_, <b>Area Chair</b>, CVPR 2025 Workshop on Multi-Agent Embodied Intelligent System.
+- _Jun 2025_, <b>Area Chair</b>, CVPR 2025 Workshop on Multi-Agent Embodied Intelligent Systems.
 - _Oct 2024_, <b>Program Committee Member</b>, ECCV 2024 Workshop on Coop-Intelligence.
 
 # 💬 Talks and Oral Presentations
 
-- _Jan 2026_, <b>StyleDrive: Towards Personal End-to-end Autonomous Driving</b>, on Annual AAAI Conference on Artificial Intelligence, Singapore.
+- _Jan 2026_, <b>StyleDrive: Towards Personalized End-to-end Autonomous Driving</b>, Annual AAAI Conference on Artificial Intelligence, Singapore.
 - _Dec 2025_, <b>Tooth Bone Loss Estimation Based on 3D CBCT Data</b>, Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs, Saint James Parish, Barbados.
 - _Nov 2025_, <b>Real2Sim in Autonomous Driving Systems</b>, Invited Internal Talk, Department of Civil, Environmental and Geomatic Engineering, University College London, London, UK.
 - _Oct 2025_, <b>End-to-End V2X Cooperative Autonomous Driving Challenges</b>, ICCV Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving, Honolulu, Hawaii, USA.
