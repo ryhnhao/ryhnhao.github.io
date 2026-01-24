@@ -23,7 +23,7 @@ Before joining KCL, I worked as a Research Assistant at the <b>Institute for AI 
 
 I have published several papers in high-level AI conferences and journals, with total <a href='https://scholar.google.com/citations?user=msJSbWYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/ryhnhao/ryhnhao.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on Google Scholar.
 
-My current research interests lie in multimodal learning, computer vision, and medical AI, with a special focus on their applications in dentistry and healthcare.
+<b>Research Focus</b>: My current research interests lie in multimodal learning, computer vision, and medical AI, with a special focus on their applications in dentistry and healthcare.
 
 <div style="margin-top: 25px; margin-bottom: 10px; text-align: center;">
   <img src="https://ry-hao.top/images/images.png" 
@@ -44,7 +44,7 @@ My current research interests lie in multimodal learning, computer vision, and m
 
 <b>Ruiyang Hao</b>, Bowen Jing, Haibao Yu, Zaiqing Nie
 
-<i>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>. [**_Project_**](https://styledrive.github.io/), [**_Video_**](https://youtu.be/M3_zA0CT-Zg), [![Stars](https://img.shields.io/github/stars/AIR-THU/StyleDrive?style=flat&logo=github)](https://github.com/AIR-THU/StyleDrive), [**_Ref_**](https://ry-hao.top/files/styledrive.txt)
+<i>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>. [**_Project_**](https://styledrive.github.io/), [**_Video_**](https://youtu.be/M3_zA0CT-Zg), [**_Ref_**](https://ry-hao.top/files/styledrive.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/StyleDrive?style=flat&logo=github)](https://github.com/AIR-THU/StyleDrive)
 
 - Novel large-scale real-world personalized driving dataset
 - High-quality multi-stage annotation pipeline
@@ -60,7 +60,7 @@ My current research interests lie in multimodal learning, computer vision, and m
 
 Haibao Yu<sup>\*</sup>, Wenxian Yang<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Chuanye Wang<sup>\*</sup>, Jiaru Zhong<sup>\*</sup>, Ping Luo, Zaiqing Nie (\* means equal contributions)
 
-arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-THU/DriveE2E), [![Stars](https://img.shields.io/github/stars/AIR-THU/DriveE2E?style=flat&logo=github)](https://github.com/AIR-THU/DriveE2E), [**_Ref_**](https://ry-hao.top/files/drivee2e.txt)
+arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-THU/DriveE2E), [**_Ref_**](https://ry-hao.top/files/drivee2e.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/DriveE2E?style=flat&logo=github)](https://github.com/AIR-THU/DriveE2E)
 
 - Infra-view-enhanced real2sim framework for realistic closed-loop evaluation.
 - 15 high-fidelity digital twins & 800 infra-sensor diverse scenarios.
@@ -75,7 +75,7 @@ arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-T
 
 <b>Ruiyang Hao</b>, Haibao Yu, Jiaru Zhong, Chuanye Wang, Jiahao Wang, Yiming Kan, Wenxian Yang, Siqi Fan, Huilin Yin, Jianing Qiu, Yao Mu, Jiankai Sun, Li Chen, Walter Zimmer, Dandan Zhang, Shanghang Zhang, Mac Schwager, Ping Luo, Zaiqing Nie
 
-<i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025, 1828-1839. [**_Project_**](https://github.com/AIR-THU/UniV2X), [**_Video_**](https://youtu.be/LS0CrJ9jfEs), [![Stars](https://img.shields.io/github/stars/AIR-THU/UniV2X?style=flat&logo=github)](https://github.com/AIR-THU/UniV2X), [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt)
+<i>International Conference on Computer Vision Workshop (ICCVW 2025)</i>, 2025, 1828-1839. [**_Project_**](https://github.com/AIR-THU/UniV2X), [**_Video_**](https://youtu.be/LS0CrJ9jfEs), [**_Ref_**](https://ry-hao.top/files/ICCVW25.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/UniV2X?style=flat&logo=github)](https://github.com/AIR-THU/UniV2X)
 
 - First V2X challenge combining sequential perception & E2E planning.
 - Demonstrated SOTA advances in V2X cooperative perception & E2E planning.
@@ -90,7 +90,7 @@ arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-T
 
 <b>Ruiyang Hao</b>, Siqi Fan, Yingru Dai, Zhenlin Zhang, Chenxi Li, Yuntian Wang, Haibao Yu, Wenxian Yang, Jirui Yuan, Zaiqing Nie
 
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>, 2024, 22347-22357. [**_Project_**](https://github.com/AIR-THU/DAIR-RCooper), [**_Video_**](https://youtu.be/6CFi9Bz4wg4), [![Stars](https://img.shields.io/github/stars/AIR-THU/DAIR-RCooper?style=flat&logo=github)](https://github.com/AIR-THU/DAIR-RCooper), [**_Ref_**](https://ry-hao.top/files/CVPR24.txt)
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</i>, 2024, 22347-22357. [**_Project_**](https://github.com/AIR-THU/DAIR-RCooper), [**_Video_**](https://youtu.be/6CFi9Bz4wg4), [**_Ref_**](https://ry-hao.top/files/CVPR24.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/DAIR-RCooper?style=flat&logo=github)](https://github.com/AIR-THU/DAIR-RCooper)
 
 - 1st real-world large-scale dataset for roadside cooperative perception.
 - 50k images & 30k point clouds with 3D annotations across 10 semantic classes.
@@ -151,8 +151,8 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 
 # 🎖 Honors and Awards
 
-- _Oct 2025 - Sept 2028_, <b>Newland Pedley Studentship</b>, awarded by KCL.
-- _Oct 2025_, <b>Research Excellence Scholarship</b>, awarded by UCL (not commenced since unsuccessful enrolment), <b>top 40 worldwide</b>.
+- _Oct 2025 - Sept 2028_, <b>Newland Pedley Studentship</b>, awarded by King's College London.
+- _Oct 2025_, <b>Research Excellence Scholarship</b>, awarded by University College London (declined due to enrollment constraints), <b>top 40 globally</b>.
 - _Dec 2018_, <b>National Scholarship</b>, the Top Scholarship in China, <b>top 1%</b>.
 - _Oct 2022_, First-class Excellence Scholarship, awarded by Tsinghua University, <b>top 2.5%</b>.
 - _Oct 2021_, First-class Excellence Scholarship, awarded by Tsinghua University, <b>top 2.5%</b>.
@@ -166,22 +166,22 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 - _Sept 2020 - Jun 2023_, Master, with <b>4.00/4.00 GPA (ranking 1/155)</b>, <b>Tsinghua University</b>, Beijing, China.
 - _Sept 2016 - Jun 2020_, Bachelor (w. Honor), with <b>3.83/4.00 GPA (ranking 1/51)</b>, <b>Beihang University</b>, Beijing, China.
 
-# 💻 Jobs and Internships
+# 💻 Internships and RAs
 
-- _Jul 2025 - Oct 2025_, Tuojing Intelligence, Research Scientist: _Simulation and Generation in Autonomous Driving_.
+- _Jul 2025 - Oct 2025_, Tuojing Intelligence, Internship: _Simulation and Generation in Autonomous Driving_.
 - _Jul 2023 - Jul 2025_, Tsinghua University, Research Assistant: _Perception, Planning and Simulation in Autonomous Driving_.
 - _Jun 2022 - Oct 2022_, SenseTime Research, Internship: _Perception in Unmanned Aerial Vehicle_.
 
 # 💼 Services
 
-- _Since 2024_, Conference Reviewer for _CVPR_, _NIPS_, _AAAI_, _ECCV_, _ICLR_, etc.
-- _Since 2023_, Journal Reviewer for _Advanced Engineering Informatics_, _Journal of Industrial Information Integration_, _Journal of Real-Time Image Processing_, _The Visual Computer_, _Signal, Image and Video Processing_, etc.
-- _Jun 2025_, Area Chair, CVPR 2025 Workshop on Multi-Agent Embodied Intelligent System.
-- _Oct 2024_, Program Committee Member, ECCV 2024 Workshop on Coop-Intelligence.
+- _Since 2024_, <b>Conference Reviewer</b> for _CVPR_, _NIPS_, _AAAI_, _ECCV_, _ICLR_, etc.
+- _Since 2023_, <b>Journal Reviewer</b> for _Advanced Engineering Informatics_, _Journal of Industrial Information Integration_, _Journal of Real-Time Image Processing_, _The Visual Computer_, _Signal, Image and Video Processing_, etc.
+- _Jun 2025_, <b>Area Chair</b>, CVPR 2025 Workshop on Multi-Agent Embodied Intelligent System.
+- _Oct 2024_, <b>Program Committee Member</b>, ECCV 2024 Workshop on Coop-Intelligence.
 
 # 💬 Talks and Oral Presentations
 
-- _Jan 2026_, _StyleDrive: Towards Personal End-to-end Autonomous Driving_, on Annual AAAI Conference on Artificial Intelligence, Singapore.
-- _Dec 2025_, _Tooth Bone Loss Estimation Based on 3D CBCT Data_, Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs, Saint James Parish, Barbados.
-- _Nov 2025_, _Real2Sim in Autonomous Driving Systems_, Invited Internal Talk, Department of Civil, Environmental and Geomatic Engineering, University College London (UCL), London, UK.
-- _Oct 2025_, _End-to-End V2X Cooperative Autonomous Driving Challenges_, ICCV Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving, Honolulu, Hawaii, USA.
+- _Jan 2026_, <b>StyleDrive: Towards Personal End-to-end Autonomous Driving</b>, on Annual AAAI Conference on Artificial Intelligence, Singapore.
+- _Dec 2025_, <b>Tooth Bone Loss Estimation Based on 3D CBCT Data</b>, Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs, Saint James Parish, Barbados.
+- _Nov 2025_, <b>Real2Sim in Autonomous Driving Systems</b>, Invited Internal Talk, Department of Civil, Environmental and Geomatic Engineering, University College London, London, UK.
+- _Oct 2025_, <b>End-to-End V2X Cooperative Autonomous Driving Challenges</b>, ICCV Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving, Honolulu, Hawaii, USA.
