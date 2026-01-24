@@ -166,16 +166,16 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 - _Sept 2020 - Jun 2023_, Master, with <b>4.00/4.00 GPA (ranking 1/155)</b>, <b>Tsinghua University</b>, Beijing, China.
 - _Sept 2016 - Jun 2020_, Bachelor (w. Honor), with <b>3.83/4.00 GPA (ranking 1/51)</b>, <b>Beihang University</b>, Beijing, China.
 
-# 💻 Internships and RAs
+# 💻 Jobs and Internships
 
-- _Jul 2025 - Oct 2025_, Tuojing Intelligence, Internship: _Simulation and Generation in Autonomous Driving_.
+- _Jul 2025 - Oct 2025_, Tuojing Intelligence, Research Scientist: _Simulation and Generation in Autonomous Driving_.
 - _Jul 2023 - Jul 2025_, Tsinghua University, Research Assistant: _Perception, Planning and Simulation in Autonomous Driving_.
 - _Jun 2022 - Oct 2022_, SenseTime Research, Internship: _Perception in Unmanned Aerial Vehicle_.
 
 # 💼 Services
 
-- _Since 2024_, Conference Reviewer of _CVPR_, _NIPS_, _AAAI_, _ECCV_, _ICLR_, etc.
-- _Since 2023_, Journal Reviewer of _Advanced Engineering Informatics_, _Journal of Industrial Information Integration_, _Journal of Real-Time Image Processing_, _The Visual Computer_, _Signal, Image and Video Processing_, etc.
+- _Since 2024_, Conference Reviewer for _CVPR_, _NIPS_, _AAAI_, _ECCV_, _ICLR_, etc.
+- _Since 2023_, Journal Reviewer for _Advanced Engineering Informatics_, _Journal of Industrial Information Integration_, _Journal of Real-Time Image Processing_, _The Visual Computer_, _Signal, Image and Video Processing_, etc.
 - _Jun 2025_, Area Chair, CVPR 2025 Workshop on Multi-Agent Embodied Intelligent System.
 - _Oct 2024_, Program Committee Member, ECCV 2024 Workshop on Coop-Intelligence.
 
@@ -184,4 +184,4 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 - _Jan 2026_, _StyleDrive: Towards Personal End-to-end Autonomous Driving_, on Annual AAAI Conference on Artificial Intelligence, Singapore.
 - _Dec 2025_, _Tooth Bone Loss Estimation Based on 3D CBCT Data_, Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs, Saint James Parish, Barbados.
 - _Nov 2025_, _Real2Sim in Autonomous Driving Systems_, Invited Internal Talk, Department of Civil, Environmental and Geomatic Engineering, University College London (UCL), London, UK.
-- _Dec 2025_, _End-to-End V2X Cooperative Autonomous Driving Challenges_, ICCV Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving, Honolulu, Hawaii, USA.
+- _Oct 2025_, _End-to-End V2X Cooperative Autonomous Driving Challenges_, ICCV Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving, Honolulu, Hawaii, USA.
