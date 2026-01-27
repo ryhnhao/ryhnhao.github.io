@@ -22,8 +22,8 @@ I am currently a Ph.D. student in the [Translational AI Research Lab](https://ta
 Before joining KCL, I was a Research Assistant at the <b>Institute for AI Industry Research (AIR), Tsinghua University</b>, where I worked with [Prof. Zaiqing Nie](https://air.tsinghua.edu.cn/en/info/1046/1192.htm) and [Dr. Haibao Yu](https://scholar.google.com/citations?user=JW4F5HoAAAAJ) on autonomous driving perception, planning, and simulation. I obtained my Master’s degree from the <b>Department of Automation, Tsinghua University</b> under the supervision of [Prof. Biqing Huang](https://www.au.tsinghua.edu.cn/en/info/1092/3354.htm), focusing on computer vision for industrial defect inspection. I received my Bachelor’s degree (with Honours) from <b>Shenyuan Honors College, Beihang University</b>. These experiences built a strong foundation in multimodal perception and machine learning systems, which now support my current research on medical AI for dental diagnosis.
 
 I have published multiple papers in leading AI conferences and journals, with total <a href='https://scholar.google.com/citations?user=msJSbWYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/ryhnhao/ryhnhao.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on Google Scholar.
-
-<b>Research Focus</b>: Multimodal learning, computer vision, and medical AI, with a particular emphasis on dental and healthcare applications.
+<br><br>
+<b>Current Research Focus</b>: multimodal learning, computer vision, and medical AI, with a focus on dental and healthcare applications.
 
 <div style="margin-top: 25px; margin-bottom: 0; text-align: center;">
   <img src="https://ry-hao.top/images/images.png" 
