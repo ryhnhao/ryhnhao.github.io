@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in the [Translational AI Research Lab](https://tair-lab.github.io/) at <b>King’s College London (KCL)</b>, advised by [Dr. Yunpeng Li](https://yunpengli.ac/) and [Prof. Yulan He](https://sites.google.com/view/yulanhe). My research focuses on multimodal artificial intelligence for dental diagnosis, with the goal of advancing healthcare applications through cutting-edge machine learning methods.
+I am currently a Ph.D. student in the [Translational AI Research Lab](https://tair-lab.github.io/) at <b>King’s College London (KCL)</b>, advised by [Dr. Yunpeng Li](https://yunpengli.ac/) and [Prof. Yulan He](https://sites.google.com/view/yulanhe).
 
 Before joining KCL, I was a Research Assistant at the <b>Institute for AI Industry Research (AIR), Tsinghua University</b>, where I worked with [Prof. Zaiqing Nie](https://air.tsinghua.edu.cn/en/info/1046/1192.htm) and [Dr. Haibao Yu](https://scholar.google.com/citations?user=JW4F5HoAAAAJ) on autonomous driving perception, planning, and simulation. I obtained my Master’s degree from the <b>Department of Automation, Tsinghua University</b> under the supervision of [Prof. Biqing Huang](https://www.au.tsinghua.edu.cn/en/info/1092/3354.htm), focusing on computer vision for industrial defect inspection. I received my Bachelor’s degree (with Honours) from <b>Shenyuan Honors College, Beihang University</b>. These experiences built a strong foundation in multimodal perception and machine learning systems, which now support my current research on medical AI for dental diagnosis.
 
 I have published multiple papers in leading AI conferences and journals, with total <a href='https://scholar.google.com/citations?user=msJSbWYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/ryhnhao/ryhnhao.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on Google Scholar.
 
-<b>Research Focus</b>: Multimodal learning, computer vision, and medical AI, with a particular emphasis on dental imaging and healthcare applications.
+<b>Research Focus</b>: Multimodal learning, computer vision, and medical AI, with a particular emphasis on dental and healthcare applications.
 
 <div style="margin-top: 25px; margin-bottom: 0; text-align: center;">
   <img src="https://ry-hao.top/images/images.png" 
@@ -141,9 +141,9 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 
 <i>Computers & Industrial Engineering</i>, 2021, 156: 107237. [**_Ref_**](https://ry-hao.top/files/CAIE21.txt)
 
-- Classified hypernetwork & MS-SDR for modeling dual diversities in supply-demand.
-- MS-SDO model with stakeholder analysis to enhance platform stability and utility.
-- Knowledge-guided NSGAII + experiments for effective optimization and management insights.
+- Classified hypernetwork & MS-SDR to model diversities in supply-demand.
+- MS-SDO optimization to enhance platform stability and utility.
+- Knowledge-guided NSGAII algorithm for effective optimization, providing insights for platform management.
 </div>
 </div>
 
