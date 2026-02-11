@@ -26,8 +26,8 @@ I have published multiple papers in leading AI conferences and journals, with to
 <b>Current Research Focus</b>: multimodal learning, computer vision, and medical AI, with a focus on dental and healthcare applications.
 
 <div style="margin-top: 25px; margin-bottom: 0; text-align: center;">
-  <img src="https://ry-hao.top/images/images.png" 
-       style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px;">
+  <img src="https://ry-hao.top/images/slogan.png" 
+       style="width: 80%; max-width: 1200px; height: auto; border-radius: 8px;">
 </div>
 
 <p style="text-align: center; font-size: 14px; color: #444; margin-top: 4px; font-weight: 500;">

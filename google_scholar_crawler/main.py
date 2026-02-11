@@ -165,7 +165,7 @@ def write_outputs(author: dict | None):
 
         if not OUT_BADGE.exists():
             OUT_BADGE.write_text(
-                json.dumps({"schemaVersion": 1, "label": "citations", "message": "462"}, ensure_ascii=False),
+                json.dumps({"schemaVersion": 1, "label": "citations", "message": "484"}, ensure_ascii=False),
                 encoding="utf-8"
             )
         print("⚠️ 抓取失败，已写入占位/或保留旧文件")
