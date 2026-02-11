@@ -30,10 +30,6 @@ I have published multiple papers in leading AI conferences and journals, with to
        style="width: 80%; max-width: 1200px; height: auto; border-radius: 8px;">
 </div>
 
-<p style="text-align: center; font-size: 14px; color: #444; margin-top: 4px; font-weight: 500;">
-  Advancing Dental Diagnosis through Multimodal AI!
-</p>
-
 <!-- # 🔥 News
 
 - _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
