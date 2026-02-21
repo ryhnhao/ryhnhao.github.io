@@ -1,0 +1,202 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "publications"
+  ],
+  "scholar_id": "msJSbWYAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ruiyang Hao",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=msJSbWYAAAAJ&citpid=7",
+  "affiliation": "King's College London",
+  "organization": 1087198676816281164,
+  "interests": [
+    "Machine Learning",
+    "Computer Vision",
+    "Embodied AI",
+    "MLLMs",
+    "Healthcare"
+  ],
+  "email_domain": "@kcl.ac.uk",
+  "homepage": "https://ry-hao.top/",
+  "citedby": 489,
+  "citedby5y": 487,
+  "hindex": 7,
+  "hindex5y": 7,
+  "i10index": 6,
+  "i10index5y": 6,
+  "cites_per_year": {
+    "2021": 10,
+    "2022": 46,
+    "2023": 70,
+    "2024": 114,
+    "2025": 214,
+    "2026": 31
+  },
+  "publications": {
+    "msJSbWYAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A steel surface defect inspection approach towards smart industrial monitoring",
+        "pub_year": "2021",
+        "citation": "Journal of Intelligent Manufacturing 32, 1833-1843, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 190,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6486087080873117231",
+      "cites_id": [
+        "6486087080873117231"
+      ]
+    },
+    "msJSbWYAAAAJ:d1gkVwhDpl0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficient surface defect detection using self-supervised learning strategy and segmentation network",
+        "pub_year": "2022",
+        "citation": "Advanced Engineering Informatics 52, 101566, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 99,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10685957597646742611",
+      "cites_id": [
+        "10685957597646742611"
+      ]
+    },
+    "msJSbWYAAAAJ:_FxGoFyzp5QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rcooper: A real-world large-scale dataset for roadside cooperative perception",
+        "pub_year": "2024",
+        "citation": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 22347 …, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 79,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13771818251331494093",
+      "cites_id": [
+        "13771818251331494093"
+      ]
+    },
+    "msJSbWYAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Manufacturing service supply-demand optimization with dual diversities for industrial internet platforms",
+        "pub_year": "2021",
+        "citation": "Computers & Industrial Engineering 156, 107237, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7000368044743868068",
+      "cites_id": [
+        "7000368044743868068"
+      ]
+    },
+    "msJSbWYAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Incremental Template Neighborhood Matching for 3D anomaly detection",
+        "pub_year": "2024",
+        "citation": "Neurocomputing 581, 127483, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:qjMakFHDy7sC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9327602808247725067",
+      "cites_id": [
+        "9327602808247725067"
+      ]
+    },
+    "msJSbWYAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metal surface defect detection method based on improved cascade r-cnn",
+        "pub_year": "2024",
+        "citation": "Journal of Computing and Information Science in Engineering 24 (4), 041002, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7130635305985339813",
+      "cites_id": [
+        "7130635305985339813"
+      ]
+    },
+    "msJSbWYAAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving",
+        "pub_year": "2026",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15072510497439695733",
+      "cites_id": [
+        "15072510497439695733"
+      ]
+    },
+    "msJSbWYAAAAJ:eQOLeE2rZwMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving through Real-to-Simulation",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2509.23922, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2160187524852361357,1272466019123713067",
+      "cites_id": [
+        "2160187524852361357",
+        "1272466019123713067"
+      ]
+    },
+    "msJSbWYAAAAJ:W7OEmFMy1HYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition",
+        "pub_year": "2025",
+        "citation": "IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), 1828-1839, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2747278301266882566",
+      "cites_id": [
+        "2747278301266882566"
+      ]
+    },
+    "msJSbWYAAAAJ:zYLM7Y9cAGgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Domain Incremental Learning Framework for PCB Continuous Defect Detection",
+        "pub_year": "2025",
+        "citation": "IEEE Transactions on Instrumentation and Measurement 74, 5016613, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "msJSbWYAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=536825179425872884",
+      "cites_id": [
+        "536825179425872884"
+      ]
+    }
+  },
+  "updated": "2026-02-21T08:27:04"
+}
