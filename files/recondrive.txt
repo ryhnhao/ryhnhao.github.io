@@ -1,0 +1,6 @@
+@article{yu2026recondrive,
+  title={ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction},
+  author={Yu, Haibao and Xiao, Kuntao and Wang, Jiahang and Hao, Ruiyang and Huang, Yuxin and Hu, Guoran and Qin, Haifang and Jing, Bowen and Bo, Yuntian and Luo, Ping},
+  journal={arXiv preprint arXiv:2603.07552},
+  year={2026}
+}

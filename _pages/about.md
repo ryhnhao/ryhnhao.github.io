@@ -143,6 +143,8 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 </div>
 </div>
 
+- [ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction](https://arxiv.org/abs/2603.07552), Haibao Yu, Kuntao Xiao, Jiahang Wang, <b>Ruiyang Hao</b>, Yuxin Huang, Guoran Hu, Haifang Qin, Bowen Jing, Yuntian Bo, Ping Luo. <i>Under Review</i>, 2026. [**_Project_**](https://github.com/TuojingAI/ReconDrive), [**_Ref_**](https://ry-hao.top/files/recondrive.txt), [![Stars](https://img.shields.io/github/stars/TuojingAI/ReconDrive?style=flat&logo=github)](https://github.com/TuojingAI/ReconDrive)
+
 - [A Domain Incremental Learning Framework for PCB Continuous Defect Detection](https://ieeexplore.ieee.org/abstract/document/10922142), Ze Yan, <b>Ruiyang Hao</b>, Biqing Huang, Lin Zhu, Hui Pan. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2025, 74: 5016613. [**_Ref_**](https://ry-hao.top/files/TIM25.txt)
 
 - [Incremental Template Neighborhood Matching for 3D anomaly detection](https://www.sciencedirect.com/science/article/pii/S0925231224002546), Jiaxun Wang, Xiang Wang, <b>Ruiyang Hao</b>, Haonan Yin, Biqing Huang, Xiao Xu, Jingxian Liu. <i>Neurocomputing</i>, 2024, 581: 127483. [**_Ref_**](https://ry-hao.top/files/NEURC24.txt)
