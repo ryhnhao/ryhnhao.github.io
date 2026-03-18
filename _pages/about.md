@@ -44,7 +44,7 @@ I have published multiple papers in leading AI conferences and journals, with to
 
 <b>Ruiyang Hao</b>, Bowen Jing, Haibao Yu, Zaiqing Nie
 
-<i>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>. [**_Project_**](https://styledrive.github.io/), [**_Video_**](https://youtu.be/M3_zA0CT-Zg), [**_Ref_**](https://ry-hao.top/files/styledrive.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/StyleDrive?style=flat&logo=github)](https://github.com/AIR-THU/StyleDrive)
+<i>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>, 2026, 4627-4635. [**_Project_**](https://styledrive.github.io/), [**_Video_**](https://youtu.be/M3_zA0CT-Zg), [**_Ref_**](https://ry-hao.top/files/styledrive.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/StyleDrive?style=flat&logo=github)](https://github.com/AIR-THU/StyleDrive)
 
 - Novel large-scale real-world personalized driving dataset
 - High-quality multi-stage annotation pipeline
