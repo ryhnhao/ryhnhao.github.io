@@ -1,4 +1,4 @@
-@inproceedings{hao2025styledrive,
+@inproceedings{hao2026styledrive,
   title={StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving},
   author={Hao, Ruiyang and Jing, Bowen and Yu, Haibao and Nie, Zaiqing},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
