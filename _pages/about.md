@@ -54,7 +54,22 @@ I have published multiple papers in leading AI conferences and journals, with to
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2025</div> <img src='images/DriveE2E.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">Under Review</div> <img src='images/CounterScene.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation](https://arxiv.org/pdf/2603.21104)
+
+Bowen Jing<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Weitao Zhou, Haibao Yu (\* means equal contributions)
+
+arXiv: 2603.21104, <i>Under Review</i>. [**_Project_**](https://github.com/TuojingAI/CounterScene), [**_Ref_**](https://ry-hao.top/files/CounterScene.txt), [![Stars](https://img.shields.io/github/stars/TuojingAI/CounterScene?style=flat&logo=github)](https://github.com/TuojingAI/CounterScene)
+
+- Causal Adversarial Agent Selection & stage-adaptive counterfactual guidance.
+- Conflict-aware Interactive World Model with explicit Causal Modeling.
+- Bridges generative world models and causal reasoning for realistic yet adversarial safety-critical scenario generation.
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Under Review</div> <img src='images/DriveE2E.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving through Real-to-Simulation](https://arxiv.org/pdf/2509.23922)
 
@@ -64,7 +79,7 @@ arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-T
 
 - Infra-view-enhanced real2sim framework for realistic closed-loop evaluation.
 - 15 high-fidelity digital twins & 800 infra-sensor diverse scenarios.
-- Comprehensive closed-loop benchmark with expert dataset for SOTA evaluation and IL training.
+- Comprehensive closed-loop benchmark with expert dataset for SOTA evaluation and imitation-learning training.
 </div>
 </div>
 

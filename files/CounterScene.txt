@@ -1,0 +1,6 @@
+@article{jing2026counterscene,
+  title={CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation},
+  author={Jing, Bowen and Hao, Ruiyang and Zhou, Weitao and Yu, Haibao},
+  journal={arXiv preprint arXiv:2603.21104},
+  year={2026}
+}
