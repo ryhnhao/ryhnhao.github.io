@@ -198,15 +198,15 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 
 # 📖 Education
 
-- _Oct 2025–now_, PhD, <b>King's College London</b>, London, UK.
-- _Sep 2020–Jun 2023_, Master, with <b>4.00/4.00 GPA (Rank: 1/155)</b>, <b>Tsinghua University</b>, Beijing, China.
-- _Sep 2016–Jun 2020_, Bachelor (with Honours), with <b>3.83/4.00 GPA (Rank: 1/51)</b>, <b>Beihang University</b>, Beijing, China.
+- _Oct 2025–now_, PhD, <b style="color: #E12726;">_King's College London_</b>, London, UK.
+- _Sep 2020–Jun 2023_, Master, with <b>4.00/4.00 GPA (Rank: 1/155)</b>, <b style="color: #671372;">_Tsinghua University_</b>, Beijing, China.
+- _Sep 2016–Jun 2020_, Bachelor (with Honours), with <b>3.83/4.00 GPA (Rank: 1/51)</b>, <b style="color: #01519A;">_Beihang University_</b>, Beijing, China.
 
 # 💻 Experiences
 
-- _Jul 2025–Oct 2025_, Tuojing Intelligence, Founding Researcher: _World Model Simulation and Generation in Embodied AI_.
-- _Jul 2023–Jul 2025_, Tsinghua University, Research Assistant: _Perception, Planning and Simulation in Autonomous Driving_.
-- _Jun 2022–Oct 2022_, SenseTime Research, Internship: _Perception in Unmanned Aerial Vehicle_.
+- _Jul 2025–Oct 2025_, <b>Tuojing Intelligence</b>, Founding Researcher: _World Model Simulation and Generation in Embodied AI_.
+- _Jul 2023–Jul 2025_, <b>Tsinghua University</b>, Research Assistant: _Perception, Planning and Simulation in Autonomous Driving_.
+- _Jun 2022–Oct 2022_, <b>SenseTime Research</b>, Internship: _Perception in Unmanned Aerial Vehicle_.
 
 # 💼 Services
 
