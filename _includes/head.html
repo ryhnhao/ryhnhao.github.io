@@ -8,6 +8,11 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  (function() {
+    var storedTheme = localStorage.getItem('theme');
+    var theme = storedTheme || 'light';
+    document.documentElement.setAttribute('data-theme', theme);
+  }());
 </script>
 
 <!-- For all browsers -->

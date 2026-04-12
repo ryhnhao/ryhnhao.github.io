@@ -37,21 +37,7 @@ I have published multiple papers in leading AI conferences and journals, with to
 
 # 📝 Publications
 
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div> <img src='images/styledrive.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[StyleDrive: Towards Driving-Style Aware Benchmarking of End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.23982)
-
-<b>Ruiyang Hao</b>, Bowen Jing, Haibao Yu, Zaiqing Nie
-
-<i>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>, 2026, 4627-4635. [**_Project_**](https://styledrive.github.io/), [**_Video_**](https://youtu.be/M3_zA0CT-Zg), [**_Ref_**](https://ry-hao.top/files/styledrive.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/StyleDrive?style=flat&logo=github)](https://github.com/AIR-THU/StyleDrive)
-
-- Novel large-scale real-world personalized driving dataset
-- High-quality multi-stage annotation pipeline
-- First standardized benchmark for personalized E2EAD
-- Significant gains in human-like behavior via personalization
-</div>
-</div>
+## Generative World Model for Embodied AI
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Under Review</div> <img src='images/CounterScene.jpg' alt="sym" width="100%"></div></div>
@@ -65,6 +51,39 @@ arXiv: 2603.21104, <i>Under Review</i>. [**_Project_**](https://github.com/Tuoji
 - Causal Adversarial Agent Selection & stage-adaptive counterfactual guidance.
 - Conflict-aware Interactive World Model with explicit Causal Modeling.
 - Bridges generative world models and causal reasoning for realistic yet adversarial safety-critical scenario generation.
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Under Review</div> <img src='images/ReconDrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction](https://arxiv.org/abs/2603.07552)
+
+Haibao Yu, Kuntao Xiao, Jiahang Wang, <b>Ruiyang Hao</b>, Yuxin Huang, Guoran Hu, Haifang Qin, Bowen Jing, Yuntian Bo, Ping Luo
+
+arXiv: 2603.07552, <i>Under Review</i>, 2026. [**_Project_**](https://github.com/TuojingAI/ReconDrive), [**_Ref_**](https://ry-hao.top/files/recondrive.txt), [![Stars](https://img.shields.io/github/stars/TuojingAI/ReconDrive?style=flat&logo=github)](https://github.com/TuojingAI/ReconDrive)
+
+- Feed-forward 4DGS without per-scene optimization.
+- Hybrid Gaussian heads with static-dynamic 4D composition.
+- SOTA feed-forward results on nuScenes reconstruction and synthesis.
+</div>
+</div>
+
+## Perception, Planning and Simulation for Autonomous Driving
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div> <img src='images/styledrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[StyleDrive: Towards Driving-Style Aware Benchmarking of End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.23982)
+
+<b>Ruiyang Hao</b>, Bowen Jing, Haibao Yu, Zaiqing Nie
+
+<i>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</i>, 2026, 4627-4635. [**_Project_**](https://styledrive.github.io/), [**_Video_**](https://youtu.be/M3_zA0CT-Zg), [**_Ref_**](https://ry-hao.top/files/styledrive.txt), [![Stars](https://img.shields.io/github/stars/AIR-THU/StyleDrive?style=flat&logo=github)](https://github.com/AIR-THU/StyleDrive)
+
+- Novel large-scale real-world personalized driving dataset
+- High-quality multi-stage annotation pipeline
+- First standardized benchmark for personalized E2EAD
+- Significant gains in human-like behavior via personalization
 </div>
 </div>
 
@@ -113,6 +132,8 @@ arXiv: 2509.23922, <i>Under Review</i>. [**_Project_**](https://github.com/AIR-T
 </div>
 </div>
 
+## Computer Vision & Artificial Intelligence for Industrial Application
+
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">AEI 2022</div> <img src='images/AEI2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -158,15 +179,13 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 </div>
 </div>
 
-- [ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction](https://arxiv.org/abs/2603.07552), Haibao Yu, Kuntao Xiao, Jiahang Wang, <b>Ruiyang Hao</b>, Yuxin Huang, Guoran Hu, Haifang Qin, Bowen Jing, Yuntian Bo, Ping Luo. <i>Under Review</i>, 2026. [**_Project_**](https://github.com/TuojingAI/ReconDrive), [**_Ref_**](https://ry-hao.top/files/recondrive.txt), [![Stars](https://img.shields.io/github/stars/TuojingAI/ReconDrive?style=flat&logo=github)](https://github.com/TuojingAI/ReconDrive)
-
 - [A Domain Incremental Learning Framework for PCB Continuous Defect Detection](https://ieeexplore.ieee.org/abstract/document/10922142), Ze Yan, <b>Ruiyang Hao</b>, Biqing Huang, Lin Zhu, Hui Pan. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2025, 74: 5016613. [**_Ref_**](https://ry-hao.top/files/TIM25.txt)
 
 - [Incremental Template Neighborhood Matching for 3D anomaly detection](https://www.sciencedirect.com/science/article/pii/S0925231224002546), Jiaxun Wang, Xiang Wang, <b>Ruiyang Hao</b>, Haonan Yin, Biqing Huang, Xiao Xu, Jingxian Liu. <i>Neurocomputing</i>, 2024, 581: 127483. [**_Ref_**](https://ry-hao.top/files/NEURC24.txt)
 
 - [Metal surface defect detection method based on improved cascade r-cnn](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/24/4/041002/1169612/Metal-Surface-Defect-Detection-Method-Based-on), Yani Wang, Xiang Wang, <b>Ruiyang Hao</b>, Bingyu Lu, Biqing Huang. <i>Journal of Computing and Information Science in Engineering</i>, 2024, 24(4): 041002. [**_Ref_**](https://ry-hao.top/files/JCISE24.txt)
 
-# 🎖 Honors and Awards
+# 🎖 Honors
 
 - _Oct 2025–Sep 2028_, <b>Newland Pedley Studentship</b>, King's College London.
 - _Oct 2025_, <b>Research Excellence Scholarship</b>, University College London (declined due to enrollment constraints), <b>top 40 Worldwide</b>.
@@ -183,22 +202,22 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 - _Sep 2020–Jun 2023_, Master, with <b>4.00/4.00 GPA (Rank: 1/155)</b>, <b>Tsinghua University</b>, Beijing, China.
 - _Sep 2016–Jun 2020_, Bachelor (with Honours), with <b>3.83/4.00 GPA (Rank: 1/51)</b>, <b>Beihang University</b>, Beijing, China.
 
-# 💻 Internships and RAs
+# 💻 Experiences
 
-- _Jul 2025–Oct 2025_, Tuojing Intelligence, Internship: _Simulation and Generation in Autonomous Driving_.
+- _Jul 2025–Oct 2025_, Tuojing Intelligence, Founding Researcher: _World Model Simulation and Generation in Embodied AI_.
 - _Jul 2023–Jul 2025_, Tsinghua University, Research Assistant: _Perception, Planning and Simulation in Autonomous Driving_.
 - _Jun 2022–Oct 2022_, SenseTime Research, Internship: _Perception in Unmanned Aerial Vehicle_.
 
 # 💼 Services
 
-- _Since 2024_, <b>Conference Reviewer</b> for _CVPR_, _NeurIPS_, _AAAI_, _ECCV_, _ICLR_, etc.
-- _Since 2023_, <b>Journal Reviewer</b> for _Advanced Engineering Informatics_, _Journal of Industrial Information Integration_, _Journal of Real-Time Image Processing_, _The Visual Computer_, _Signal, Image and Video Processing_, etc.
+- _Since 2024_, <b>Conference Reviewer</b> for _CVPR_, _NeurIPS_, _AAAI_, _ECCV_, _ICLR_, _IROS_, etc.
+- _Since 2023_, <b>Journal Reviewer</b> for _Advanced Engineering Informatics_; _Journal of Industrial Information Integration_; _Journal of Real-Time Image Processing_; _The Visual Computer_; _Signal, Image and Video Processing_; _IEEE Transactions on Circuits and Systems for Video Technology_; _Caries Research_; etc.
 - _Jun 2025_, <b>Area Chair</b>, CVPR 2025 Workshop on Multi-Agent Embodied Intelligent Systems.
 - _Oct 2024_, <b>Program Committee Member</b>, ECCV 2024 Workshop on Coop-Intelligence.
 
-# 💬 Talks and Oral Presentations
+# 💬 Oral Talks
 
 - _Jan 2026_, <b>StyleDrive: Towards Personalized End-to-end Autonomous Driving</b>, Annual AAAI Conference on Artificial Intelligence, Singapore.
 - _Dec 2025_, <b>Tooth Bone Loss Estimation Based on 3D CBCT Data</b>, Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs, Saint James Parish, Barbados.
 - _Nov 2025_, <b>Real2Sim in Autonomous Driving Systems</b>, Invited Internal Talk, Department of Civil, Environmental and Geomatic Engineering, University College London, London, UK.
-- _Oct 2025_, <b>End-to-End V2X Cooperative Autonomous Driving Challenges</b>, ICCV Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving, Honolulu, Hawaii, USA.
+- _Oct 2025_, <b>End-to-End V2X Cooperative Autonomous Driving Challenges</b> (Online), ICCV Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving, Honolulu, Hawaii, USA.

@@ -5,7 +5,7 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: white;
+  background-color: #fffdf8;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -34,12 +34,41 @@
 }
 
 .masthead__menu {
+  display: flex;
+  align-items: center;
+  gap: 1em;
 
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+  }
+
+  .greedy-nav {
+    flex: 1 1 auto;
+  }
+}
+
+.theme-toggle {
+  flex: 0 0 auto;
+  padding: 0.45rem 0.75rem;
+  color: #5d554d;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
+  font-weight: 700;
+  line-height: 1;
+  background: #f1e7d8;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  cursor: pointer;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+
+  &:hover,
+  &:focus {
+    color: #211f1c;
+    background: #eadac6;
   }
 }
 
@@ -60,5 +89,4 @@
     font-weight: 700;
   }
 }
-
 

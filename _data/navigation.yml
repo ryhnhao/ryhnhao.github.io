@@ -6,17 +6,17 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honors"
+    url: "/#-honors"
 
   - title: "Education"
     url: "/#-education"
 
-  - title: "Internships and RAs"
-    url: "/#-internships-and-ras"
+  - title: "Experiences"
+    url: "/#-experiences"
 
   - title: "Services"
     url: "/#-services"
 
-  - title: "Talks and Oral Presentations"
-    url: "/#-talks-and-oral-presentations"
+  - title: "Oral Talks"
+    url: "/#-oral-talks"
