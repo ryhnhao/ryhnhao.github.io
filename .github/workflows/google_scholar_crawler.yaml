@@ -6,7 +6,7 @@ permissions:
 on:
   page_build:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "37 3 * * *"
 
 jobs:
   build:
