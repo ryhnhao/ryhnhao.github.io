@@ -208,6 +208,7 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 
 # 🎖 Honors
 
+- _Sep 2026_, <b>2nd in automated evaluation & 3rd in blinded clinical Arena comparison</b>, ODIN ToothFairy4 Challenge, MICCAI 2026.
 - _Oct 2025–Sep 2028_, <b>Newland Pedley Studentship</b>, King's College London.
 - _Oct 2025_, <b>Research Excellence Scholarship</b>, University College London (declined due to enrollment constraints), <b>top 40 Worldwide</b>.
 - _Dec 2018_, <b>National Scholarship</b>, the Top Scholarship in China, <b>top 1%</b>.
