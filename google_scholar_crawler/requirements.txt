@@ -1,4 +1,6 @@
 jsonpickle==4.0.5
 scholarly==1.7.11
+# scholarly imports bibtexparser.bibdatabase, which was removed in v2.
+bibtexparser==1.4.3
 httpx==0.23.3
 free-proxy==1.1.3

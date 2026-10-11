@@ -1,0 +1,6 @@
+@article{jing2026softvtbench,
+  title={{SoftVTBench}: A Deformation-Aware Visuo-Tactile Dataset and Benchmark for Deformable-Object Manipulation},
+  author={Jing, Bowen and Wang, Mingxin and Hao, Ruiyang and Ge, Chenchen and Shen, Hanwen and He, Junjie and Cui, Yang and Hou, Yiming and Zhou, Weitao and Wang, Jiawei and Li, Minglei and Zhang, Dandan and Zhao, Ding and Liu, Houde and Li, Xiaofan and Liu, Si and Luo, Ping and Yu, Haibao},
+  journal={arXiv preprint arXiv:2608.18701},
+  year={2026}
+}

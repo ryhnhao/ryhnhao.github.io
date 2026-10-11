@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in the [Translational AI Research Lab](https://tair-lab.github.io/) at <b>King’s College London (KCL)</b>, advised by [Dr. Yunpeng Li](https://yunpengli.ac/) and [Prof. Yulan He](https://sites.google.com/view/yulanhe).
+I am currently a PhD student in the [Translational AI Research Lab](https://tair-lab.github.io/) at <b>King’s College London (KCL)</b>, advised by [Dr. Yunpeng Li](https://yunpengli.ac/) and [Prof. Yulan He](https://sites.google.com/view/yulanhe).
 
 Before joining KCL, I was a Research Assistant at the <b>Institute for AI Industry Research (AIR), Tsinghua University</b>, where I worked with [Prof. Zaiqing Nie](https://air.tsinghua.edu.cn/en/info/1046/1192.htm) and [Dr. Haibao Yu](https://scholar.google.com/citations?user=JW4F5HoAAAAJ) on autonomous driving perception, planning, and simulation. I obtained my Master’s degree from the <b>Department of Automation, Tsinghua University</b> under the supervision of [Prof. Biqing Huang](https://www.au.tsinghua.edu.cn/en/info/1092/3354.htm), focusing on computer vision for industrial defect inspection. I received my Bachelor’s degree (with Honours) from <b>Shenyuan Honors College, Beihang University</b>. These experiences built a strong foundation in multimodal perception and machine learning systems, which now support my current research on medical AI for dental diagnosis.
 
@@ -37,7 +37,39 @@ I have published multiple papers in leading AI conferences and journals, with to
 
 # 📝 Publications
 
+## Multimodal AI for Dental Healthcare
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Under Review</div> <img src='images/EviDent-CBCT.png' alt="Overview of the EviDent-CBCT report generation framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[EviDent-CBCT: Evidence-Bottlenecked Report Generation from Dental CBCT under Non-Exhaustive Report Supervision](https://arxiv.org/abs/2610.02375)
+
+<b>Ruiyang Hao</b>, Zhi Qin Tan, Yulan He, Owen Addison, Yunpeng Li
+
+arXiv: 2610.02375, <i>Under Review</i>. [**_Project_**](https://github.com/ryhnhao/EviDent-CBCT), [**_Slides_**](https://odin-workshops.org/2026/presentations/challenges_presentations/ODIN2026_ToothFairy4_Hao_Presentation.pdf), [**_Ref_**](https://ry-hao.top/files/evident-cbct.txt)
+
+- Predict anatomy-aware evidence under the incomplete report supervision.
+- Separate evidence prediction & report realization, with explicit evidence records for auditable report generation.
+- Second in automated evaluation and third in blinded clinical Arena comparison at the [ODIN 2026 ToothFairy4 challenge](https://odin2026.grand-challenge.org/).
+</div>
+</div>
+
 ## Generative World Model for Embodied AI
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ECCVW 2026</div> <img src='images/SoftVTBench.png' alt="Overview of the SoftVTBench visuo-tactile dataset and benchmark" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SoftVTBench: A Deformation-Aware Visuo-Tactile Dataset and Benchmark for Deformable-Object Manipulation](https://arxiv.org/pdf/2608.18701)
+
+Bowen Jing, Mingxin Wang, <b>Ruiyang Hao</b>, Chenchen Ge, Hanwen Shen, Junjie He, Yang Cui, Yiming Hou, Weitao Zhou, Jiawei Wang, Minglei Li, Dandan Zhang, Ding Zhao, Houde Liu, Xiaofan Li, Si Liu, Ping Luo, Haibao Yu
+
+<i>European Conference on Computer Vision Workshop (ECCVW 2026)</i>, 2026. [**_Project_**](https://softvtbench.github.io/), [**_Ref_**](https://ry-hao.top/files/softvtbench.txt), [![Stars](https://img.shields.io/github/stars/TuojingAI/SoftVTBench?style=flat&logo=github)](https://github.com/TuojingAI/SoftVTBench)
+
+- 4,000 expert demonstrations across 40 tasks and more than 50 assets.
+- Synchronized visual, tactile, proprioceptive, language, and action streams.
+- Deformation-aware closed-loop evaluation with physical ground truth.
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Under Review</div> <img src='images/CounterScene.jpg' alt="sym" width="100%"></div></div>
@@ -54,20 +86,9 @@ arXiv: 2603.21104, <i>Under Review</i>. [**_Project_**](https://github.com/Tuoji
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Under Review</div> <img src='images/ReconDrive.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction](https://arxiv.org/abs/2603.07552)
+- [ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction](https://arxiv.org/abs/2603.07552), Haibao Yu, Kuntao Xiao, Jiahang Wang, <b>Ruiyang Hao</b>, Yuxin Huang, Guoran Hu, Haifang Qin, Bowen Jing, Yuntian Bo, Ping Luo. arXiv: 2603.07552, <i>Under Review</i>, 2026. [**_Project_**](https://github.com/TuojingAI/ReconDrive), [**_Ref_**](https://ry-hao.top/files/recondrive.txt), [![Stars](https://img.shields.io/github/stars/TuojingAI/ReconDrive?style=flat&logo=github)](https://github.com/TuojingAI/ReconDrive)
 
-Haibao Yu, Kuntao Xiao, Jiahang Wang, <b>Ruiyang Hao</b>, Yuxin Huang, Guoran Hu, Haifang Qin, Bowen Jing, Yuntian Bo, Ping Luo
-
-arXiv: 2603.07552, <i>Under Review</i>, 2026. [**_Project_**](https://github.com/TuojingAI/ReconDrive), [**_Ref_**](https://ry-hao.top/files/recondrive.txt), [![Stars](https://img.shields.io/github/stars/TuojingAI/ReconDrive?style=flat&logo=github)](https://github.com/TuojingAI/ReconDrive)
-
-- Feed-forward 4DGS without per-scene optimization.
-- Hybrid Gaussian heads with static-dynamic 4D composition.
-- SOTA feed-forward results on nuScenes reconstruction and synthesis.
-</div>
-</div>
+- [ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts](https://arxiv.org/abs/2607.28993), Mingxin Wang, Bin Hu, Bin Qian, Kaitao Jiang, Haoning Wu, Feng Yan, Bowen Jing, <b>Ruiyang Hao</b>, Enyi Wang, Kangning Niu, Yandan Yang, Mu Xu, Yan Wang, Houde Liu, Tianlun Li. arXiv: 2607.28993, 2026. [**_Project_**](https://thu-wangmx.github.io/st-wam/), [**_Ref_**](https://ry-hao.top/files/st-wam.txt), [![Stars](https://img.shields.io/github/stars/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model?style=flat&logo=github)](https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model)
 
 ## Perception, Planning and Simulation for Autonomous Driving
 
@@ -212,11 +233,13 @@ Ronge Xu<sup>\*</sup>, <b>Ruiyang Hao<sup>\*</sup></b>, Biqing Huang (\* means e
 
 - _Since 2024_, <b>Conference Reviewer</b> for _CVPR_, _NeurIPS_, _AAAI_, _ECCV_, _ICLR_, _IROS_, etc.
 - _Since 2023_, <b>Journal Reviewer</b> for _Advanced Engineering Informatics_; _Journal of Industrial Information Integration_; _Journal of Real-Time Image Processing_; _The Visual Computer_; _Signal, Image and Video Processing_; _IEEE Transactions on Circuits and Systems for Video Technology_; _Caries Research_; etc.
+- _Oct-Nov 2026_, <b>Graduate Teaching Assistant</b> for a postgraduate Statistics course at King's College London.
 - _Jun 2025_, <b>Area Chair</b>, CVPR 2025 Workshop on Multi-Agent Embodied Intelligent Systems.
 - _Oct 2024_, <b>Program Committee Member</b>, ECCV 2024 Workshop on Coop-Intelligence.
 
 # 💬 Oral Talks
 
+- _Sep 2026_, <b>EviDent-CBCT: Evidence-Bottlenecked Report Generation from Dental CBCT under Non-Exhaustive Report Supervision</b>, ToothFairy4 Challenge Presentation, ODIN 2026 Workshop, MICCAI 2026, Strasbourg, France.
 - _Jan 2026_, <b>StyleDrive: Towards Personalized End-to-end Autonomous Driving</b>, Annual AAAI Conference on Artificial Intelligence, Singapore.
 - _Dec 2025_, <b>Tooth Bone Loss Estimation Based on 3D CBCT Data</b>, Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs, Saint James Parish, Barbados.
 - _Nov 2025_, <b>Real2Sim in Autonomous Driving Systems</b>, Invited Internal Talk, Department of Civil, Environmental and Geomatic Engineering, University College London, London, UK.

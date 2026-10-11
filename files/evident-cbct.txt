@@ -1,0 +1,6 @@
+@article{hao2026evidentcbct,
+  title={{EviDent-CBCT}: Evidence-Bottlenecked Report Generation from Dental {CBCT} under Non-Exhaustive Report Supervision},
+  author={Hao, Ruiyang and Tan, Zhi Qin and He, Yulan and Addison, Owen and Li, Yunpeng},
+  journal={arXiv preprint arXiv:2610.02375},
+  year={2026}
+}

@@ -1,0 +1,6 @@
+@article{wang2026stwam,
+  title={{ST-WAM}: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts},
+  author={Wang, Mingxin and Hu, Bin and Qian, Bin and Jiang, Kaitao and Wu, Haoning and Yan, Feng and Jing, Bowen and Hao, Ruiyang and Wang, Enyi and Niu, Kangning and Yang, Yandan and Xu, Mu and Wang, Yan and Liu, Houde and Li, Tianlun},
+  journal={arXiv preprint arXiv:2607.28993},
+  year={2026}
+}
