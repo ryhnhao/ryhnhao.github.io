@@ -7,28 +7,59 @@ on:
   page_build:
   schedule:
     - cron: "37 3 * * *"
+  workflow_dispatch:
+
+# Avoid two runs overwriting the persistent history at the same time.
+concurrency:
+  group: google-scholar-stats
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Install Reqs
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
         run: |
-          sudo apt-get install python3-setuptools
-      - name: Run
+          python -m pip install --upgrade pip
+          python -m pip install -r google_scholar_crawler/requirements.txt
+
+      # The stats branch is force-rebuilt on every successful run.
+      # Restore the previous JSON files BEFORE running the crawler.
+      - name: Restore last published data and 10-value history
+        shell: bash
         run: |
-          cd ./google_scholar_crawler
-          pip3 install -r requirements.txt
-          python3 main.py
-          cd ./results
-          git init
-          git config --global init.defaultBranch main
-          git config --local user.name "${GITHUB_ACTOR}"
-          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-          git add *.json
-          git commit -m "Updated Citation Data"
-          git push "${remote_repo}" HEAD:google-scholar-stats --force
+          mkdir -p google_scholar_crawler/results
+          if git fetch --depth=1 origin google-scholar-stats; then
+            for f in gs_data.json gs_data_shieldsio.json gs_history.json; do
+              if git cat-file -e "FETCH_HEAD:$f" 2>/dev/null; then
+                git show "FETCH_HEAD:$f" > "google_scholar_crawler/results/$f"
+                echo "Restored $f"
+              fi
+            done
+          else
+            echo "No previous google-scholar-stats branch found."
+          fi
+
+      - name: Fetch Scholar and choose real or history-max value
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: python google_scholar_crawler/main.py
+
+      # Only run when the Python step succeeded, including successful fallback.
+      - name: Publish citation data
+        shell: bash
+        run: |
+          cd google_scholar_crawler/results
+          git init
+          git config --local user.name "${GITHUB_ACTOR}"
+          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add gs_data.json gs_data_shieldsio.json gs_history.json
+          git commit -m "Updated Citation Data"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats
