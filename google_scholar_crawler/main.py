@@ -159,6 +159,7 @@ def write_outputs(author: dict | None):
         data = dict(author)
         data["citedby"] = count
         data["updated"] = now
+        data["citation_source"] = "google_scholar"
 
         pubs = data.get("publications", [])
         if isinstance(pubs, list):
@@ -168,29 +169,32 @@ def write_outputs(author: dict | None):
                 if isinstance(pub, dict)
             }
 
-        # Only genuine new successful fetches enter the history.
+        # Only successful live Scholar requests count as historical samples.
         history = (history + [count])[-HISTORY_LIMIT:]
         print(f"✅ 抓取成功，使用 Google Scholar 真实引用数: {count}")
     else:
-        # For an older installation without gs_history.json, seed from an
-        # existing real gs_data.json count. Do NOT seed from the old hardcoded
-        # shields badge (592), as it may not be a genuine Scholar value.
-        if not history:
-            old_count = valid_count(old_data.get("citedby"))
-            if old_count is not None:
-                history = [old_count]
+        # A genuinely fetched old gs_data.json may seed history, but a value
+        # previously derived from a badge or another fallback must not do so.
+        old_source = old_data.get("citation_source")
+        old_count = valid_count(old_data.get("citedby"))
+        if not history and old_count is not None and old_source in (None, "google_scholar"):
+            history = [old_count]
+            print(f"[info] 从既有真实 gs_data.json 恢复 1 个引用数: {old_count}")
 
-        if not history:
-            # A failed run must never destroy remote data or create fake counts.
+        data = dict(old_data)
+        if history:
+            count = max(history[-HISTORY_LIMIT:])
+            data["citation_source"] = "historical_max"
+            print(f"⚠️ 抓取失败，采用最近 {len(history)} 次成功抓取的最大值: {count}")
+        else:
+            # No unverified badge numbers. The workflow first attempts to
+            # restore a genuine Nov 9 snapshot from commit d5e3851.
             raise RuntimeError(
-                "抓取失败且没有有效历史引用数，停止发布（旧数据分支不会被覆盖）"
+                "抓取失败且没有可信历史引用数。请检查工作流是否成功恢复 d5e3851 的 gs_data.json；停止发布。"
             )
 
-        count = max(history[-HISTORY_LIMIT:])
-        data = dict(old_data)
         data["citedby"] = count
         data["updated"] = now
-        print(f"⚠️ 抓取失败，采用最近 {len(history)} 次成功抓取的最大值: {count}")
 
     badge = {
         "schemaVersion": 1,

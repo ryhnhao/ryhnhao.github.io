@@ -47,19 +47,77 @@ jobs:
             echo "No previous google-scholar-stats branch found."
           fi
 
+      # On 2026-11-09 run #436 the crawler wrote complete data to root
+      # commit d5e3851. The old workflow force-pushed and discarded history.
+      # Recover this genuine snapshot only if no verified sample is available.
+      - name: Recover real Scholar snapshot from 2026-11-09
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          results=google_scholar_crawler/results
+          if python -c 'import json, pathlib; p=pathlib.Path("google_scholar_crawler/results/gs_history.json"); h=json.loads(p.read_text()) if p.exists() else []; assert isinstance(h,list) and any(type(v) is int and v >= 0 for v in h)'; then
+            echo 'Valid recent history exists; skipping old snapshot.'
+          elif python -c 'import json, pathlib; p=pathlib.Path("google_scholar_crawler/results/gs_data.json"); d=json.loads(p.read_text()) if p.exists() else {}; assert isinstance(d,dict) and type(d.get("citedby")) is int and d["citedby"] >= 0 and d.get("citation_source") in (None,"google_scholar")'; then
+            echo 'Existing verified gs_data.json can seed history.'
+          else
+            echo 'No verified history found; attempting to fetch Nov 9 snapshot d5e3851.'
+            # Resolve the abbreviated 7-character SHA to the full 40 characters.
+            # Git fetch cannot reliably fetch an orphaned commit by short SHA.
+            full_sha=""
+            if full_sha="$(curl -fsSL --retry 2 \
+              -H "Authorization: Bearer $GITHUB_TOKEN" \
+              -H 'Accept: application/vnd.github+json' \
+              "https://api.github.com/repos/$GITHUB_REPOSITORY/commits/d5e3851" \
+              | python -c 'import json,sys; s=json.load(sys.stdin)["sha"]; assert len(s)==40; print(s)')" \
+              && git fetch --depth=1 origin "$full_sha" \
+              && git cat-file -e 'FETCH_HEAD:gs_data.json'; then
+              git show 'FETCH_HEAD:gs_data.json' > "$RUNNER_TEMP/gs_data_2026-11-09.json"
+              python - "$RUNNER_TEMP/gs_data_2026-11-09.json" "$results" <<'PYRECOVER'
+          import json
+          import pathlib
+          import sys
+          snapshot = json.loads(pathlib.Path(sys.argv[1]).read_text(encoding="utf-8"))
+          out = pathlib.Path(sys.argv[2])
+          count = snapshot.get("citedby") if isinstance(snapshot, dict) else None
+          if type(count) is str and count.isdecimal():
+              count = int(count)
+          if type(count) is not int or count < 0:
+              raise ValueError("d5e3851 snapshot contains no valid citedby; do not fabricate a number")
+          (out / "gs_data.json").write_text(json.dumps(snapshot, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          (out / "gs_history.json").write_text(json.dumps([count], indent=2) + "\n", encoding="utf-8")
+          print(f"Recovered genuine 2026-11-09 citedby={count} from d5e3851")
+          PYRECOVER
+            else
+              echo 'WARNING: GitHub no longer exposes the unreferenced d5e3851 commit.'
+              echo 'No number will be guessed. A real Scholar fetch or other historical commit is required.'
+            fi
+          fi
+
       - name: Fetch Scholar and choose real or history-max value
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
         run: python google_scholar_crawler/main.py
 
-      # Only run when the Python step succeeded, including successful fallback.
+      # Preserve the stats branch's commit history (no more force pushes).
+      # Each published run becomes recoverable from Git history.
       - name: Publish citation data
         shell: bash
         run: |
-          cd google_scholar_crawler/results
-          git init
-          git config --local user.name "${GITHUB_ACTOR}"
-          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add gs_data.json gs_data_shieldsio.json gs_history.json
-          git commit -m "Updated Citation Data"
-          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats
+          set -euo pipefail
+          out="$RUNNER_TEMP/google-scholar-stats"
+          git fetch --depth=1 origin google-scholar-stats
+          git worktree add -B google-scholar-stats "$out" FETCH_HEAD
+          cp google_scholar_crawler/results/gs_data.json "$out/gs_data.json"
+          cp google_scholar_crawler/results/gs_data_shieldsio.json "$out/gs_data_shieldsio.json"
+          cp google_scholar_crawler/results/gs_history.json "$out/gs_history.json"
+          git -C "$out" config user.name "${GITHUB_ACTOR}"
+          git -C "$out" config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git -C "$out" add gs_data.json gs_data_shieldsio.json gs_history.json
+          if git -C "$out" diff --cached --quiet; then
+            echo "No citation data changes to publish."
+            exit 0
+          fi
+          git -C "$out" commit -m "Updated Citation Data"
+          git -C "$out" push origin HEAD:google-scholar-stats
